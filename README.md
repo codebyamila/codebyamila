@@ -1,6 +1,6 @@
 ## Hi, I'm Amila 👋
 
-<!--
+
 
 
 Welcome to my little developer corner ✨  
@@ -27,4 +27,4 @@ Here I document my journey and the projects I build step by step.
 - 💬 Ask me about my favourite Linkin Park song
 - 📫 How to reach me: ami.softic@outlook.com
 - ⚡ Fun fact: If I mastered anything in life, then it is improvisation. Seriuosly, if there was something like it - I'd have a pHD. 
--->
+
