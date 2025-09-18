@@ -1,7 +1,7 @@
 ## Hi, I'm Amila 👋
 
 <!--
-**codebyamila/codebyamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Welcome to my little developer corner ✨  
 I see myself as a rookie **Frontend Developer** with a focus on **web design & development**.  
